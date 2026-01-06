@@ -13,7 +13,7 @@ Features
 Frequency analysis for Shift cipher
 
 How to Run
-Clone the repository: git clone https://github.com/yourname/cryptography-tools.git
+Copy code into .cpp file
 
 Compile: g++ main.cpp -o cryptography.exe
 
