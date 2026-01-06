@@ -41,5 +41,4 @@ Vigenere Cipher	             encryptCharVigenere(), decryptCharVigenere(), gener
 RSA Cipher	                 rsaEncryptFile(), rsaDecryptFile(), generatePrivateKey()
 Author
       Salman Ahmad  --  salmanshafiq7171@gmail.com
-Your Name - your.email@example.com
 
